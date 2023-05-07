@@ -8,7 +8,7 @@
   Processing medical images can indeed be time-consuming, especially when dealing with large datasets. However, there are several ways to optimize medical image processing using SYCL to improve accuracy and speed of diagnosis. SYCL is a C++-based programming model that enables efficient acceleration of heterogeneous systems, including CPUs, GPUs, and FPGAs. It allows developers to write code in standard C++, while also exploiting the parallelism of modern hardware. This makes it an ideal tool for optimizing medical image processing.
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
+   Python,Flask,Image processing libraries
    Intel® AI Analytics Toolkits : 
    Intel® AI Analytics Toolkits provide optimized libraries and tools for accelerating machine learning and deep learning workloads on Intel® hardware
    Libraries we are using are ->
